@@ -6,7 +6,7 @@ import numpy as np
 st.set_page_config(page_title="Iris Prediction App", layout="centered")
 
 # Sidebar
-st.sidebar.title("🌸 About This App")
+st.sidebar.title("🌸 Ini adalah aplikasi pertama saya")
 st.sidebar.write("""
 This app predicts the species of an Iris flower based on its measurements using a trained Machine Learning model.
 
