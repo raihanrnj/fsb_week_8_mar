@@ -16,7 +16,7 @@ This app predicts the species of an Iris flower based on its measurements using 
 - Real-time prediction
 """)
 
-st.title("🌸 Sistem Prediksi Bunga Iris")
+st.title("🌸 Website Prediksi Bunga Iris")
 st.markdown("### Predict iris species using trained ML model")
 st.markdown("---")
 
